@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-android-imei",
+  "version": "0.0.0",
+  "description": "Cordova plugin for retrieving IMEI of the device",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^11.0.0"
+  },
+  "scripts": {
+    "test": "standard --verbose"
+  },
+  "cordova": {
+    "id": "cordova-plugin-android-imei",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapetan/cordova-plugin-android-imei.git"
+  },
+  "author": "Mirza Kapetanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapetan/cordova-plugin-android-imei/issues"
+  },
+  "homepage": "https://github.com/kapetan/cordova-plugin-android-imei#readme"
+}
